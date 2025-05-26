@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: hh1hbi53p-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/hh1hbi53p-go
